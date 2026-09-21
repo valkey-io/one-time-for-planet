@@ -3,7 +3,18 @@
     <title>Interesting Valkey Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/valkey-io/one-time-for-planet/"/>
     <link rel="self" href="https://raw.githubusercontent.com/valkey-io/one-time-for-planet/refs/heads/main/feed.xml"/>
-    <updated>2026-09-21T00:00:00+00:00</updated>
+    <updated>2026-09-21T01:00:00+00:00</updated>
+    <entry>
+        <title>I benchmarked Dragonfly vs Redis vs Valkey. First, let me show you how I kept it honest.</title>
+        <link href="https://dev.to/sunnysahijwani/i-benchmarked-dragonfly-vs-redis-vs-valkey-first-let-me-show-you-how-i-kept-it-honest-15oo"/>
+        <content type="html">Part 1 of a series.  This post has no throughput charts — on purpose.  Before I show you a single number, I want to show you the traps that make most in-memory benchmarks lie, and exactly how I disarmed each one.  If the method isn't fair, the numbers aren't worth reading.</content>
+        <id>https://dev.to/sunnysahijwani/i-benchmarked-dragonfly-vs-redis-vs-valkey-first-let-me-show-you-how-i-kept-it-honest-15oo</id>
+        <updated>2026-09-07T00:00:00+00:00</updated>
+        <author>
+          <name>Sunny Sahijwani</name>
+          <uri>https://dev.to/sunnysahijwani</uri>
+        </author>
+    </entry>
     <entry>
         <title>I Replaced Redis With Valkey for 60 Days. The Drop-In Story Was Half True</title>
         <link href="https://blog.stackademic.com/i-replaced-redis-with-valkey-for-60-days-the-drop-in-story-was-half-true-3467288dc4c0"/>
