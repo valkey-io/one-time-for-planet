@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/valkey-io/one-time-for-planet/</id>
     <title>Interesting Valkey Community/Ecosystem Posts without a Blog / RSS</title>
-    <link href="https://github.com/valkey-io/one-time-for-planet/>
+    <link href="https://github.com/valkey-io/one-time-for-planet/">
     <link rel="self" href="https://raw.githubusercontent.com/valkey-io/one-time-for-planet/refs/heads/main/feed.xml"/>
     <updated>2026-09-21T00:00:00+00:00</updated>
     <entry>
