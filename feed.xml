@@ -1,0 +1,18 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/valkey-io/one-time-for-planet/</id>
+    <title>Interesting Valkey Community/Ecosystem Posts without a Blog / RSS</title>
+    <link href="https://github.com/valkey-io/one-time-for-planet/>
+    <link rel="self" href="https://raw.githubusercontent.com/valkey-io/one-time-for-planet/refs/heads/main/feed.xml"/>
+    <updated>2026-09-21T00:00:00+00:00</updated>
+    <entry>
+        <title>I Replaced Redis With Valkey for 60 Days. The Drop-In Story Was Half True</title>
+        <link href="https://blog.stackademic.com/i-replaced-redis-with-valkey-for-60-days-the-drop-in-story-was-half-true-3467288dc4c0"/>
+        <content type="html">Protocol-compatible is not ops-compatible.  Here’s what matched, what broke, and what I’d do on the next cluster.</content>
+        <id>https://blog.stackademic.com/i-replaced-redis-with-valkey-for-60-days-the-drop-in-story-was-half-true-3467288dc4c0</id>
+        <updated>2026-07-19T00:00:00+00:00</updated>
+        <author>
+          <name>Yusuf Seyitoğlu</name>
+          <uri>https://medium.com/@developeryusuf</uri>
+        </author>
+    </entry>
+  </feed>
