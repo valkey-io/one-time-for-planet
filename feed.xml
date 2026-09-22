@@ -3,7 +3,18 @@
     <title>Interesting Valkey Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/valkey-io/one-time-for-planet/"/>
     <link rel="self" href="https://raw.githubusercontent.com/valkey-io/one-time-for-planet/refs/heads/main/feed.xml"/>
-    <updated>2026-09-21T01:00:00+00:00</updated>
+    <updated>2026-09-22T01:00:00+00:00</updated>
+    <entry>
+        <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+        <link href="https://openai.com/index/scaling-storage-one-billion-users-part-one/"/>
+        <content type="html">Buried in OpenAI's engineering blog: Valkey is running in the cache layer behind ChatGPT.</content>
+        <id>https://openai.com/index/scaling-storage-one-billion-users-part-one/</id>
+        <updated>2026-09-07T00:00:00+00:00</updated>
+        <author>
+          <name>OpenAI ENgineering</name>
+          <uri>https://openai.com/news/engineering/</uri>
+        </author>
+    </entry>
     <entry>
         <title>I benchmarked Dragonfly vs Redis vs Valkey. First, let me show you how I kept it honest.</title>
         <link href="https://dev.to/sunnysahijwani/i-benchmarked-dragonfly-vs-redis-vs-valkey-first-let-me-show-you-how-i-kept-it-honest-15oo"/>
