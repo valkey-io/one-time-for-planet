@@ -1,19 +1,19 @@
 
 <!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 -->
 
-# One-time for Planet
+# One-Time for Planet
 
-One-time links as an Atom Feed for Planet Valkey.
+One-time links as an Atom Feed for [Planet Valkey](https://planet.valkey.io/).
 
 This repository contains a feed file, [feed.xml](https://github.com/valkey-io/one-time-for-planet/blob/main/feed.xml),
-which is aggregated by [Planet Valkey](https://planet.valkey.io/).
+which is aggregated by Planet Valkey.
 
 <!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 -->
 
 By adding entries to this file, it is possible to include content to Planet Valkey
 that would otherwise be difficult to aggregate.  This includes news sources
-without a feed, filtered subscriptions that excludes relevant posts, or sources
-which are not worth adding.
+without a feed, filtered subscriptions that excludes relevant posts, or
+subscriptions which are not worth adding.
 
 More information can be found in the [Allow one-off posts](https://github.com/oursqlcommunity-org/planet/issues/145)
 issue on the [Planet for the MySQL Community](https://planet.oursqlcommunity.org/) repository.
@@ -42,7 +42,7 @@ Adding an entry is error-prone.  Use the checklist below:
 
 - before merging, validate the file with a feed validator
   like [Feed Validator](https://www.feedvalidator.org/) (easier to use, but http only)
-  or [W3C Markup Validation Service](https://validator.w3.org/) (more complete, reporting minor errors);
+  or [W3C Feed Validation Service](https://validator.w3.org/feed/) (more complete);
 
 - the URL for the file to be validated can be generated with [rawgit.hack](https://raw.githack.com/).
 
