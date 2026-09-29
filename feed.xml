@@ -3,7 +3,18 @@
     <title>Interesting Valkey Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/valkey-io/one-time-for-planet/"/>
     <link rel="self" href="https://raw.githubusercontent.com/valkey-io/one-time-for-planet/refs/heads/main/feed.xml"/>
-    <updated>2026-09-22T01:00:00+00:00</updated>
+    <updated>2026-09-29T01:00:00+00:00</updated>
+    <entry>
+        <title>Scaling OCI Cache to Terabytes of Data at High Request Volumes</title>
+        <link href="https://blogs.oracle.com/cloud-infrastructure/scaling-ocicache-to-terabytes-at-high-volumes"/>
+        <content type="html">What changes when a Valkey cache grows to hundreds of gigabytes or terabytes and becomes a shared data layer for multiple applications: hot keys, large values, costly commands, pipelining, and monitoring.</content>
+        <id>https://blogs.oracle.com/cloud-infrastructure/scaling-ocicache-to-terabytes-at-high-volumes</id>
+        <updated>2026-09-25T00:00:00+00:00</updated>
+        <author>
+          <name>OCI Engineering</name>
+          <uri>https://blogs.oracle.com/cloud-infrastructure/</uri>
+        </author>
+    </entry>
     <entry>
         <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
         <link href="https://openai.com/index/scaling-storage-one-billion-users-part-one/"/>
