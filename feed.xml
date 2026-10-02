@@ -3,7 +3,18 @@
     <title>Interesting Valkey Community/Ecosystem Posts without a Blog / RSS</title>
     <link href="https://github.com/valkey-io/one-time-for-planet/"/>
     <link rel="self" href="https://raw.githubusercontent.com/valkey-io/one-time-for-planet/refs/heads/main/feed.xml"/>
-    <updated>2026-09-29T01:00:00+00:00</updated>
+    <updated>2026-10-02T01:00:00+00:00</updated>
+    <entry>
+        <title>Upgrading Signals to Valkey 9.1: 10% less memory, 28% less write time</title>
+        <link href="https://signals.snowplow.io/blog/valkey-9"/>
+        <content type="html">We replayed one Signals workload on Valkey 8.0 through 9.1.  Memory per stored attribute fell 10% and server time per write fell 28%.</content>
+        <id>https://signals.snowplow.io/blog/valkey-9</id>
+        <updated>2026-09-30T00:00:00+00:00</updated>
+        <author>
+          <name>Signals team</name>
+          <uri>https://signals.snowplow.io/blog/authors/signals-team</uri>
+        </author>
+    </entry>
     <entry>
         <title>Scaling OCI Cache to Terabytes of Data at High Request Volumes</title>
         <link href="https://blogs.oracle.com/cloud-infrastructure/scaling-ocicache-to-terabytes-at-high-volumes"/>
